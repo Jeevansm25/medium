@@ -4,5 +4,5 @@ compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
  MY_VAR = "my-variable"
- JWT_SECRET = ""
-DATABASE_URL=""
+ JWT_SECRET = "iiitdwd"
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiOTQwNTE4NmYtNjUyMi00MTAyLWE3NTgtODFiY2EzYzhmN2M0IiwidGVuYW50X2lkIjoiM2JmM2E4M2MxOGViNGM3YjUwNTg3ZjgwZjAxYjUyOTI1NzkzMGYzMTkyNzlhYzE5MmE0YWIwZGJhYmRlNDg2ZSIsImludGVybmFsX3NlY3JldCI6IjM2MDJiMzc4LWVkZjItNGRhMy04YWM1LWI2M2JjMmQ5YzNlMSJ9.WrEUOUy_iM5cBo_bRcmNjRbB9h6vgygAa_lkv07eoS4"
